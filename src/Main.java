@@ -52,7 +52,7 @@ public class Main {
                 String describe = parts[4];
                 productList.add(new Product(id,name,price,nameCompany,describe));
             }
-
+//ịo
         } catch (IOException e) {
             e.printStackTrace();
         }
